@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dhum-biryani/static/css/main.cfbef50b.css",
+    "main.js": "/dhum-biryani/static/js/main.07279650.js",
+    "static/js/453.44953b71.chunk.js": "/dhum-biryani/static/js/453.44953b71.chunk.js",
+    "static/media/pexels-satyam-verma-2901977-4439740.jpg": "/dhum-biryani/static/media/pexels-satyam-verma-2901977-4439740.49c545cde254827ebb2c.jpg",
+    "index.html": "/dhum-biryani/index.html",
+    "main.cfbef50b.css.map": "/dhum-biryani/static/css/main.cfbef50b.css.map",
+    "main.07279650.js.map": "/dhum-biryani/static/js/main.07279650.js.map",
+    "453.44953b71.chunk.js.map": "/dhum-biryani/static/js/453.44953b71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfbef50b.css",
+    "static/js/main.07279650.js"
+  ]
+}
